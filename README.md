@@ -1,5 +1,5 @@
 ﻿# Wifi_Sensing
-This repository contains Python implementations focused on WiFi Sensing and Sensing as a Service (SaaS). The goal is to explore wireless detection and monitoring techniques, applicable in smart network and IoT scenarios. The codes cover everything from capturing data from WiFi networks to processing and analysis, aiming for applications in connected environments.
+This repository contains Python implementations focused on WiFi Sensing and Sensing as a Service (SaS). The goal is to explore wireless detection and monitoring techniques, applicable in smart network and IoT scenarios. The codes cover everything from capturing data from WiFi networks to processing and analysis, aiming for applications in connected environments.
 
 <h4 align="center"> 
     :construction:  Project under construction  :construction:
